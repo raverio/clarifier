@@ -1,2 +1,1 @@
-# Clarifier V1
-Minimal micro-choice tool
+Clarifier V1.1 - continuation verbs
